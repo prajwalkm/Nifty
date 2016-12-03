@@ -1,0 +1,8 @@
+beautifulsoup4==4.5.1
+bs4==0.0.1
+CherryPy==8.1.2
+gunicorn==19.6.0
+PySide==1.2.4
+redis==2.10.5
+requests==2.12.3
+six==1.10.0
